@@ -1,1 +1,6 @@
-hello dear
+#hello dear
+#hello world
+
+for i in "spam":
+	print(i)
+
